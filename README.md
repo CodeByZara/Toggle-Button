@@ -1,2 +1,3 @@
 # Toggle-Button
 This project is a Light and Dark Mode Toggle Button built using HTML, CSS, and JavaScript. 
+It allows users to switch between light and dark themes with a single click, enhancing visual comfort based on preference or environment. The HTML provides the basic structure, CSS handles the styling for both themes, and JavaScript controls the toggle functionality. When the button is clicked, JavaScript dynamically adds or removes a class to change the theme. This feature improves user experience and is commonly used in modern websites. It's fully responsive and easy to customize for any web project.
